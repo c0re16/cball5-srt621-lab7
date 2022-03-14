@@ -1,0 +1,19 @@
+{
+  "name": "htmllab7",
+  "version": "1.0.0",
+  "description": "lab 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0re16/cball5-srt621-lab7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/c0re16/cball5-srt621-lab7/issues"
+  },
+  "homepage": "https://github.com/c0re16/cball5-srt621-lab7#readme"
+}
